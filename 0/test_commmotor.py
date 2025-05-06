@@ -13,7 +13,7 @@ from PageObject.CM_Cancel import CM_Cancel
 
 
 def test_commmotor(browserinstance,Environment_selection):
-    sleep(10)
+    sleep(2)
     #browser invocation
     driver = browserinstance
     #environment_URL=Environment_selection
